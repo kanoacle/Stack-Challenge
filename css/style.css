@@ -1,0 +1,27 @@
+input {
+  margin-top: 50px;
+  margin-left: 250px;
+  width: 25%;
+  min-height: 50px;
+  font-size: 36px;
+}
+
+.btns {
+  margin-top: 50px;
+  margin-left: 250px;
+}
+
+button {
+  width: 240px;
+  height: 50px;
+  font-size: 24px;
+  border-radius: 7px;
+}
+
+input:focus{
+  outline: none;
+}
+
+button:focus{
+  outline: none;
+}
